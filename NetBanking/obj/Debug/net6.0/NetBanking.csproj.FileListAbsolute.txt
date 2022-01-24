@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\NetBanking\NetBanking\bin\Debug\net6.0\NetBanking.exe
+C:\Users\HP\source\repos\NetBanking\NetBanking\bin\Debug\net6.0\NetBanking.deps.json
+C:\Users\HP\source\repos\NetBanking\NetBanking\bin\Debug\net6.0\NetBanking.runtimeconfig.json
+C:\Users\HP\source\repos\NetBanking\NetBanking\bin\Debug\net6.0\NetBanking.dll
+C:\Users\HP\source\repos\NetBanking\NetBanking\bin\Debug\net6.0\ref\NetBanking.dll
+C:\Users\HP\source\repos\NetBanking\NetBanking\bin\Debug\net6.0\NetBanking.pdb
+C:\Users\HP\source\repos\NetBanking\NetBanking\obj\Debug\net6.0\NetBanking.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NetBanking\NetBanking\obj\Debug\net6.0\NetBanking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NetBanking\NetBanking\obj\Debug\net6.0\NetBanking.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NetBanking\NetBanking\obj\Debug\net6.0\NetBanking.AssemblyInfo.cs
+C:\Users\HP\source\repos\NetBanking\NetBanking\obj\Debug\net6.0\NetBanking.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NetBanking\NetBanking\obj\Debug\net6.0\NetBanking.dll
+C:\Users\HP\source\repos\NetBanking\NetBanking\obj\Debug\net6.0\ref\NetBanking.dll
+C:\Users\HP\source\repos\NetBanking\NetBanking\obj\Debug\net6.0\NetBanking.pdb
+C:\Users\HP\source\repos\NetBanking\NetBanking\obj\Debug\net6.0\NetBanking.genruntimeconfig.cache
